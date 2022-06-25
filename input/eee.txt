@@ -1,0 +1,4 @@
+{"createdTime":"1532400379144","owner":"DSG","operationType":"I","columnNum":"12"}
+{"createdTime":"1532400379160","owner":"ABS","operationType":"U","columnNum":"12"}
+{"createdTime":"1532400379220","owner":"DSG","operationType":"I","columnNum":"12"}
+{"createdTime":"1532400379260","owner":"ABS","operationType":"U","columnNum":"12"}
